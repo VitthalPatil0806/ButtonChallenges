@@ -1,0 +1,23 @@
+*{
+    color: aliceblue;
+}
+.btn-text-one{
+    background: #2f2d92;
+    color: aliceblue;
+    border-radius: 20px;
+    padding: 15px;
+    width:120px;
+}
+.btn{
+    border:none;
+    position: static;
+    height: 800px;
+    width: 1500px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transform: translate(-50% -50%);
+
+    
+    
+}
